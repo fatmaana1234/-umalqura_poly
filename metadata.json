@@ -1,0 +1,6 @@
+{
+  "name": "Um Alqura Polyclinic Complete System 2026",
+  "description": "Comprehensive Physiotherapy & Rehabilitation Clinical Management System for Um Alqura Polyclinic, Barka, Sultanate of Oman. Featuring 5D conflict management, SOAP notes, AI scribe, camera motion analysis, 8 specialized clinics, Supabase schema, and Flutter mobile apps.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
